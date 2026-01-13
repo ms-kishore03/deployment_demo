@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BACKEND_URL = "http://backend:8000/message"
+BACKEND_URL = "https://deployment-demo-backend-dqif.onrender.com/message"
 
 st.title("Frontend")
 
